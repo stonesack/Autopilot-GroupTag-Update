@@ -14,6 +14,7 @@ HOW TO USE:
 
 The script currently appends data to the end of each file used, so if you want to run the script on a different group of devices 
 with a different desired group tag, you'll need to delete the following files before running:
- DeviceIDs.txt
- DeviceInfo.txt
- FinalIDs.txt
+
+DeviceIDs.txt
+DeviceInfo.txt
+FinalIDs.txt
